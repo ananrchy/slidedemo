@@ -5,58 +5,37 @@ class: center, middle
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 喻远鹤 (yuyuanhe@pku.edu.cn)  
 
-主页: https://github.com/author
-
----
-
-## 本讲内容
-
-### <font color="orangered">1. 第一部分</font>
-
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
-
-### 2. 第二部分
-
-### 3. 第三部分
+主页: https://github.com/ananrchy
 
 ---
 
-## 第一部分
+## 爱好
 
-```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
-```
+ 
 
----
+###  篮球
 
-## 插图
 
-** Ada Lovelace **
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
+
+
+
 
 ---
 
-## `\(\LaTeX{}\)` in remark
+## 最喜欢的球星
 
+#### Lebron James 
 
-1. This is an inline integral: `\(\int_a^bf(x)dx\)`
-2. More `\(x={a \over b}\)` formulae.
-
-Display formula:
-
-$$e^{i\pi} + 1 = 0$$
+<img src="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=85207d89b9a1cd1111bb7a72d87ba399/a8ec8a13632762d08aff3d06a3ec08fa503dc642.jpg"width=500 style="margin:Opx 50px">
 
 ---
 
-class: center, middle
 
-# 谢谢
+
+
+&nbsp;
+&nbsp;
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;谢谢
